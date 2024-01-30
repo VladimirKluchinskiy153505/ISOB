@@ -1,0 +1,6 @@
+﻿  Task2.cpp
+C:\Users\avdot\Desktop\3Cource\6Round\ISOB\LabWorks\LabWork1\Task2\Task2.cpp(12,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\avdot\Desktop\3Cource\6Round\ISOB\LabWorks\LabWork1\Task2\Task2.cpp(12,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\avdot\Desktop\3Cource\6Round\ISOB\LabWorks\LabWork1\Task2\Task2.cpp(41,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\avdot\Desktop\3Cource\6Round\ISOB\LabWorks\LabWork1\Task2\Task2.cpp(41,52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Task2.vcxproj -> C:\Users\avdot\Desktop\3Cource\6Round\ISOB\LabWorks\LabWork1\x64\Debug\Task2.exe

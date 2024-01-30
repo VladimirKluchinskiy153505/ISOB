@@ -1,0 +1,3 @@
+﻿  Task3.cpp
+C:\Users\avdot\Desktop\3Cource\6Round\ISOB\LabWorks\LabWork1\Task3\Task3.cpp(10,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Task3.vcxproj -> C:\Users\avdot\Desktop\3Cource\6Round\ISOB\LabWorks\LabWork1\x64\Debug\Task3.exe
